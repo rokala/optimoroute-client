@@ -1,15 +1,14 @@
 <p align="center" style="width:40%;margin:0 auto;">
-<img src="https://i.imgur.com/zVVFFIF.png" alt="OptimoRoute logo">
+<img src="https://i.imgur.com/fV5KFhV.png" alt="OptimoRoute logo">
 </p>
 
 <h3 align="center">A lightweight TypeScript WS API client</h3>
 
 ## Features
 
-- Built-in TypeScript support: including intellisense and type safety.
-- Very lightweight as API clients should be.
+- Built-in TypeScript support, including intellisense and type safety.
 - Works both with Node.js and in the browser.
-- Only depends on [`isomorphic-unfetch`](https://www.npmjs.com/package/isomorphic-unfetch) to support older browsers compatability.
+- Only 1 dependency, [`isomorphic-unfetch`](https://www.npmjs.com/package/isomorphic-unfetch) to support older browsers.
 
 ## Getting started
 
