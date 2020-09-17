@@ -1,0 +1,29 @@
+{
+  "name": "optimoroute-client",
+  "version": "1.0.0",
+  "description": "WS API for OptimoRoute. OptimoRoute plans and optimizes routes and schedules for deliveries and mobile workforce.",
+  "main": "dist/index.js",
+  "module": "dist/index.m.js",
+  "umd:main": "dist/index.umd.js",
+  "source": "src/index.ts",
+  "scripts": {
+    "build": "microbundle --tsconfig tsconfig.json"
+  },
+  "keywords": [
+    "OptimoRoute API",
+    "Optimo Route API",
+    "Route Optimization API"
+  ],
+  "author": "rokala",
+  "license": "ISC",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "microbundle": "^0.12.3"
+  }
+}
