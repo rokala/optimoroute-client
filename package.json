@@ -10,6 +10,10 @@
     "build": "microbundle --tsconfig tsconfig.json",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rokala/optimoroute-client"
+  },
   "keywords": [
     "OptimoRoute",
     "route",

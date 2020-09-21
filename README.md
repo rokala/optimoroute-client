@@ -26,7 +26,6 @@ or build it yourself
 git clone https://github.com/rokala/optimoroute-client.git
 cd ./optimoroute-client
 npm install
-npm run build
 ```
 
 ### Credentials
