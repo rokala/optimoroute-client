@@ -1,6 +1,6 @@
 {
   "name": "optimoroute-client",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A lightweight universal TypeScript WS API client for OptimoRoute. OptimoRoute plans and optimizes routes and schedules for deliveries and mobile workforce.",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
